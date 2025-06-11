@@ -10,6 +10,10 @@ Recent Software Engineering Graduate from McMaster University
   - **Tech Mahindra** - Junior Software Developer Co-op
   - **City of Brampton** - Lifeguard and Swim Instructor
 
+ ⭐ *Seeking new opportunities in IT!*
+
+---
+
 🛠 **Tech Stack:**  
 - **Languages**: C#, Python, JavaScript, TypeScript, SQL, HTML/CSS
 - **Frameworks**: ASP.NET Core, Next.js, React, TailwindCSS, Bootstrap
@@ -22,9 +26,6 @@ Recent Software Engineering Graduate from McMaster University
 
 📫 **Contact Me:**  
 - LinkedIn: [linkedin.com/in/adampodolak](https://linkedin.com/in/adampodolak)
----
-
-⭐ *Seeking new opportunities in IT!*
 
 <!--
 **adampodolak/adampodolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
