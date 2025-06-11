@@ -2,13 +2,19 @@
 
 🎯 **About Me**  
 
-Recent Software Engineering and Management Graduate from McMaster University  
+Recent Software Engineering Graduate from McMaster University
+- **Previous Experiences**:
+  - **Scotiabank** - RBBO Analytical Intern
+  - **Trillium Health Partners** - Junior Developer Co-op
+  - **McMaster University** - Undergraduate TA - Software Design
+  - **Tech Mahindra** - Junior Software Developer Co-op
+  - **City of Brampton** - Lifeguard and Swim Instructor
 
 🛠 **Tech Stack:**  
-- Languages: C#, Python, JavaScript, TypeScript, SQL, HTML/CSS
-- Frameworks: ASP.NET Core, Next.js, React, TailwindCSS, Bootstrap
-- Databases: PostgreSQL, SQL Server, MongoDB
-- Tools: Visual Studio, Visual Studio Code, Git, Azure DevOps, Docker, Figma, Power Apps/Power Automate
+- **Languages**: C#, Python, JavaScript, TypeScript, SQL, HTML/CSS
+- **Frameworks**: ASP.NET Core, Next.js, React, TailwindCSS, Bootstrap
+- **Databases**: PostgreSQL, SQL Server, MongoDB
+- **Tools**: Visual Studio, Visual Studio Code, Git, Azure DevOps, Docker, Figma, Power Apps/Power Automate
 
 🌐 **Portfolio & Projects:**  
 - [Workforce Analytics Dashboard (Live Demo)](https://workforce-analytics-web-bqguhmaxdtbycwfd.canadacentral-01.azurewebsites.net/)
