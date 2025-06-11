@@ -22,8 +22,6 @@ Recent Software Engineering Graduate from McMaster University
 
 📫 **Contact Me:**  
 - LinkedIn: [linkedin.com/in/adampodolak](https://linkedin.com/in/adampodolak)
-- GitHub: [github.com/adampodolak](https://github.com/adampodolak)
-
 ---
 
 ⭐ *Seeking new opportunities in IT!*
