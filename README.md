@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Adam Podolak
 
 🎯 **About Me**  
-  Recent Software Engineering and Management Graduate from McMaster University  
+
+Recent Software Engineering and Management Graduate from McMaster University  
 
 🛠 **Tech Stack:**  
 - Languages: C#, Python, JavaScript, TypeScript, SQL, HTML/CSS
