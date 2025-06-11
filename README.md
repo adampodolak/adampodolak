@@ -8,7 +8,6 @@ Recent Software Engineering and Management Graduate from McMaster University
 - Languages: C#, Python, JavaScript, TypeScript, SQL, HTML/CSS
 - Frameworks: ASP.NET Core, Next.js, React, TailwindCSS, Bootstrap
 - Databases: PostgreSQL, SQL Server, MongoDB
-- Cloud: Azure, Railway, Vercel
 - Tools: Visual Studio, Visual Studio Code, Git, Azure DevOps, Docker, Figma, Power Apps/Power Automate
 
 🌐 **Portfolio & Projects:**  
