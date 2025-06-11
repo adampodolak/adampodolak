@@ -6,7 +6,7 @@ Recent Software Engineering Graduate from McMaster University
 - **Previous Experiences**:
   - **Scotiabank** - RBBO Analytical Intern
   - **Trillium Health Partners** - Junior Developer Co-op
-  - **McMaster University** - Undergraduate TA - Software Design
+  - **McMaster University** - Undergraduate TA, Software Design
   - **Tech Mahindra** - Junior Software Developer Co-op
   - **City of Brampton** - Lifeguard and Swim Instructor
 
